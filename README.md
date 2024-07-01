@@ -33,4 +33,4 @@ This is a simple app that displays information about Pokémon. When I click on t
 
 ## Deploy on Vercel
 
-Deployment link of my project `https://to-do-lovat-tau.vercel.app/`
+Deployment link of my project 'https://abhishekbtech.github.io/Pokemon-Kingdom/'
